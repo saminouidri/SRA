@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587735207 source:c:\users\sami nouidri\google drive\my files\my code\test\projectsra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1587738545 source:c:\users\sami nouidri\google drive\my files\my code\projectsra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<sys/stat.h>
+	<unistd.h>
+
